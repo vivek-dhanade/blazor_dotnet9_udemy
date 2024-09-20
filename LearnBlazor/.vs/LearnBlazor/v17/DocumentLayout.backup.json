@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learnblazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\models\\product_prop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\models\\product_prop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product_Prop.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product_Prop.cs",
+              "RelativeDocumentMoniker": "LearnBlazor\\Models\\Product_Prop.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product_Prop.cs",
+              "RelativeToolTip": "LearnBlazor\\Models\\Product_Prop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:52:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LearnBlazor\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
+              "RelativeToolTip": "LearnBlazor\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:46:14.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:43:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindProp.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\LearnBlazor\\BindProp.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:40:54.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T13:30:05.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
