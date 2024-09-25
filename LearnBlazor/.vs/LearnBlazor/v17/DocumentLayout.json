@@ -3,6 +3,57 @@
   "WorkspaceRootPath": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_grandchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_grandchildcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\parentcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_childcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_childcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\demoproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\demoproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\bindprop.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_individualproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_individualproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_deletebuttoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\learn_blazor\\learnblazorcomponents\\_deletebuttoncomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E272830\\Desktop\\Courses Undertaken\\C# Begineers\\CSharpBegineersCode\\ArraysAndLists\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\learnblazor\\learnblazor\\models\\product_prop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3B646F-B599-42BC-BCB6-49A49F0D0E54}|LearnBlazor\\LearnBlazor.csproj|solutionrelative:learnblazor\\models\\product_prop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +85,170 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentComponent.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\ParentComponent.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\ParentComponent.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\ParentComponent.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\ParentComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T14:04:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_GrandChildComponent.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_GrandChildComponent.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_GrandChildComponent.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_GrandChildComponent.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_GrandChildComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:47:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ChildComponent.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_ChildComponent.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_ChildComponent.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_ChildComponent.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_ChildComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:13:04.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T10:36:11.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_IndividualProduct.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_IndividualProduct.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_IndividualProduct.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_IndividualProduct.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_IndividualProduct.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T12:43:59.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoProduct.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\DemoProduct.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\DemoProduct.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\DemoProduct.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\DemoProduct.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T10:34:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T12:31:07.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_DeleteButtonComponent.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_DeleteButtonComponent.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_DeleteButtonComponent.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_DeleteButtonComponent.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\LearnBlazorComponents\\_DeleteButtonComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T12:28:18.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\Courses Undertaken\\C# Begineers\\CSharpBegineersCode\\ArraysAndLists\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Courses Undertaken\\C# Begineers\\CSharpBegineersCode\\ArraysAndLists\\Program.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\Courses Undertaken\\C# Begineers\\CSharpBegineersCode\\ArraysAndLists\\Program.cs",
+              "RelativeToolTip": "..\\..\\Courses Undertaken\\C# Begineers\\CSharpBegineersCode\\ArraysAndLists\\Program.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:07:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T10:28:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BindProp.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\BindProp.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\BindProp.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Learn_Blazor\\BindProp.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Learn_Blazor\\BindProp.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:55:36.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "LearnBlazor\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "LearnBlazor\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:55:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "LearnBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Program.cs",
+              "RelativeToolTip": "LearnBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:55:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Product_Prop.cs",
               "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product_Prop.cs",
               "RelativeDocumentMoniker": "LearnBlazor\\Models\\Product_Prop.cs",
@@ -42,21 +256,19 @@
               "RelativeToolTip": "LearnBlazor\\Models\\Product_Prop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T14:52:21.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:52:21.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
               "RelativeDocumentMoniker": "LearnBlazor\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\Models\\Product.cs",
               "RelativeToolTip": "LearnBlazor\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:46:14.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T13:46:14.397Z"
             }
           ]
         }

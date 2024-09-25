@@ -56,6 +56,13 @@
             </tbody>
         </table>
     </div>
+    <div>
+        <h2 class="text-success">Product Summary</h2>
+        @foreach(var product in ProductList)
+        {
+            <p>@product.Name  [@product.Price]  @(product.IsActive? "Active": "InActive") </p>
+        }
+    </div>
 </div>
     
 

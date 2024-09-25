@@ -1,0 +1,41 @@
+﻿<div>
+    <div class="alert alert-info">
+        @Title
+    </div>
+     @if(ChildSomeContent!=null)
+    {
+        <div class="alert alert-success">
+            @ChildSomeContent
+        </div>
+    }
+    @if (ChildContent != null)
+    {
+        <div class="alert alert-success">
+            @ChildContent
+        </div>
+    }
+    <button class="btn btn-danger" @onclick="OnButtonClick">Click Here</button>
+   <!-- <_GrandChildComponent MessageForGrandChild="@MessageForGrandChild">
+    </_GrandChildComponent> 
+    -->
+    <_GrandChildComponent>
+
+    </_GrandChildComponent>
+</div>
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildSomeContent { get; set; }
+
+    [Parameter]
+    public EventCallback OnButtonClick { get; set; }
+
+    [Parameter]
+    public string MessageForGrandChild { get; set; }
+}

@@ -34,8 +34,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/LearnBlazor/BindProp.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybkJsYXpvclxCaW5kUHJvcC5yYXpvcg==
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/BindProp.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcQmluZFByb3AucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/DemoProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcRGVtb1Byb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_ChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9DaGlsZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_DeleteButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9EZWxldGVCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_GrandChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9HcmFuZENoaWxkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_IndividualProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/ParentComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcUGFyZW50Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Weather.razor]
