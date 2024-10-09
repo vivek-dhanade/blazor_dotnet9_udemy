@@ -1,0 +1,108 @@
+﻿@page "/blazor-forms"
+@using Microsoft.AspNetCore.Components.Forms
+
+<div class="col-12 offset-md-2 col-md-8 border">
+    <div class="text-center pt-4">
+        <h2 class="text-success">Product Form</h2>
+        <hr />
+    </div>
+    <div class="mx-2 px-2">
+        @*          <EditForm FormName="ProductCreate" Model="Product" OnSubmit="HandleProductCreate" OnValidSubmit="HandleProductCreate"> *@
+        <EditForm FormName="ProductCreate" Model="Product" OnValidSubmit="HandleProductCreate" OnInvalidSubmit="HandleProductCreateInvalid">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group py-2">
+                Product Name
+                <InputText id="ProductName" class="form-control" @bind-Value="Product.Name" />
+                <ValidationMessage For="@(()=>Product.Name)" />
+            </div>
+            <div class="form-group py-2">
+                Product Price
+                <InputNumber id="ProductPrice" class="form-control" @bind-Value="Product.Price" />
+                <ValidationMessage For="@(()=>Product.Price)" />
+
+            </div>
+            <div class="form-group py-2">
+                Category
+                <InputSelect class="form-select" @bind-Value="Product.Category">
+                    @foreach (var cat in Enum.GetValues(typeof(Category)))
+                    {
+                        <option value="@cat">@cat</option>
+                    }
+                </InputSelect>
+
+            </div>
+            <div class="form-group py-2">
+                IsActive
+                <InputCheckbox id="ProductIsActive" @bind-Value="Product.IsActive" />
+            </div>
+            <div class="form-group py-2">
+                Available After
+                <InputDate id="ProductAvailableAfter" class="form-control" @bind-Value="Product.AvailableAfter" />
+            </div>
+            <button type="submit" class="btn btn-primary my-3" style="width:px">Create Product</button>
+            <p class="text-success">
+                @(IsProcessing == true ? "Processing" : "")
+            </p>
+        </EditForm>
+@*         <EditForm FormName="ProductCreateTemp" Model="ProductTemp" OnValidSubmit="HandleProductCreateTemp" OnInvalidSubmit="HandleProductCreateInvalid">
+
+        </EditForm> *@
+    </div>
+
+    @if (createdProduct is not null)
+    {
+        <div class="mx-2 pt-4">
+            <hr />
+            <h2 class="text-success">Product Created</h2>
+            <div class="px-4">
+                Name: @createdProduct.Name <br />
+                Price: @createdProduct.Price <br />
+                Category: @createdProduct.Category <br />
+                IsActive: @createdProduct.IsActive <br />
+                Available After: @createdProduct.AvailableAfter <br />
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [SupplyParameterFromForm(FormName ="ProductCreate")]
+    public Product Product { get; set; } = new Product() { };
+
+    // [SupplyParameterFromForm(FormName ="ProductCreateTemp")]
+    // public Product ProductTemp { get; set; } = new Product() { };
+
+    private Product? createdProduct { get; set; }
+    private bool IsProcessing = false;
+
+    private async Task HandleProductCreate()
+    {
+        IsProcessing = true;
+        createdProduct = null;
+        createdProduct = Product;
+        Product = new();
+        await Task.Delay(3000);
+
+        IsProcessing = false;
+    }
+
+    private async Task HandleProductCreateInvalid()
+    {
+        IsProcessing = true;
+        await Task.Delay(10000);
+        IsProcessing = false;
+    }
+
+    // private async Task HandleProductCreateTemp()
+    // {
+    //     IsProcessing = true;
+    //     createdProduct = null;
+    //     createdProduct = ProductTemp;
+    //     ProductTemp = new();
+    //     await Task.Delay(3000);
+
+    //     IsProcessing = false;
+    // }
+
+}

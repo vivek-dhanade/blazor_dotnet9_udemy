@@ -14,17 +14,17 @@
             </NavLink>
         </div>
 
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
+        @*          <div class="nav-item px-3">
+        <NavLink class="nav-link" href="counter">
+        <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
+        </NavLink>
         </div>
 
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
-        </div>
+        <NavLink class="nav-link" href="weather">
+        <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
+        </NavLink>
+        </div> *@
 
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="/LearnBlazor/BindProp">
@@ -41,6 +41,31 @@
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="/LearnBlazor/ParentComponent">
                 <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Parent / Child Relation
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <!--NavLink class="nav-link" href="/LearnRouting" Match="NavLinkMatch.Prefix"> -->
+            @* <NavLink class="nav-link" href="/LearnRouting#targetElement"> *@
+            @* <NavLink class="nav-link" href="/LearnRouting"> *@
+            <NavLink class="nav-link" href="/LearnRouting?Param1=32&Param2=Blazor">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Routing
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/blazorjs">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> BlazorJS
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/lifecycle">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Blazor LifeCycle
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="/blazor-forms">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Forms Demo
             </NavLink>
         </div>
     </nav>

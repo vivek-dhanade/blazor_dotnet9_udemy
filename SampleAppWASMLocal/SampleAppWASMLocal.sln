@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAppWASMLocal", "SampleAppWASMLocal\SampleAppWASMLocal\SampleAppWASMLocal.csproj", "{A2F1A976-DA22-4322-9160-F3CBF4F4C681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAppWASMLocal.Client", "SampleAppWASMLocal\SampleAppWASMLocal.Client\SampleAppWASMLocal.Client.csproj", "{F938D12A-FDF0-426A-8C95-6F943B072692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F1A976-DA22-4322-9160-F3CBF4F4C681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F1A976-DA22-4322-9160-F3CBF4F4C681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F1A976-DA22-4322-9160-F3CBF4F4C681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F1A976-DA22-4322-9160-F3CBF4F4C681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F938D12A-FDF0-426A-8C95-6F943B072692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F938D12A-FDF0-426A-8C95-6F943B072692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F938D12A-FDF0-426A-8C95-6F943B072692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F938D12A-FDF0-426A-8C95-6F943B072692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0ADADAB-F6F7-4C0C-A4FF-9E4C76303E34}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+﻿@page "/blazorjs"
+
+@inject IJSRuntime _JSRuntime;
+
+<h3>BlazorJS</h3>
+
+<div class="row">
+    <button class="btn btn-summary"  @onclick="TestConfirmBox" style="border:1px solid black;">Test Confirm Button</button>
+</div>
+
+<div class="row">
+    @if(ConfirmResult)
+    {
+        <p>Confirmation has been made</p>
+    }
+    else
+    {
+        <p>Pending Confirmation</p>
+    }
+</div>
+
+<div class="row">
+    <button class="btn btn-success m-2" style="width:200px" @onclick="ToastrSuccess">Toastr Success</button>
+    <br />
+    <button class="btn btn-error m-2" style="width:200px" @onclick="ToastrError">Toastr Error</button>
+</div>
+
+<div class="row">
+    <button class="btn btn-success m-2" style="width:200px" @onclick="SweetalertSuccess">Sweetalert Success</button>
+    <br />
+    <button class="btn btn-error m-2" style="width:200px" @onclick="SweetalertError">Sweetalert Error</button>
+</div>
+
+
+@code {
+    private string ConfirmMessage = "Are you sure about the confirmation?";
+    private bool ConfirmResult { get; set; }
+    private async Task TestConfirmBox()
+    {
+        ConfirmResult  = await  _JSRuntime.InvokeAsync<bool>("confirm", ConfirmMessage);
+    }
+
+    private async Task ToastrSuccess()
+    {
+        // await _JSRuntime.InvokeVoidAsync("showToastr", "success", "Success Notification");
+        await _JSRuntime.ToastrSuccess("Success Notification");
+    }
+
+    private async Task ToastrError()
+    {
+        // await _JSRuntime.InvokeVoidAsync("showToastr", "error", "Error Notification");
+        await _JSRuntime.ToastrError("Error Notification");
+    }
+
+    private async Task SweetalertSuccess()
+    {
+        await _JSRuntime.InvokeVoidAsync("sweetAlert", "success", "SweetAlert Success Notification");
+        // await _JSRuntime.SweetalertSuccess("SweetAlert Success Notification");
+    }
+
+    private async Task SweetalertError()
+    {
+        await _JSRuntime.InvokeVoidAsync("sweetAlert", "error", "SweetAlert Error Notification");
+        // await _JSRuntime.SweetalertError("SweetAlert Error Notification");
+    }
+}

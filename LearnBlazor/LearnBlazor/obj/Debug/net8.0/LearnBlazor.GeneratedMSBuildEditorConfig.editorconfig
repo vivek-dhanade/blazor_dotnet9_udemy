@@ -38,6 +38,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcQmluZFByb3AucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/BlazorForms.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcQmxhem9yRm9ybXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/BlazorJS.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcQmxhem9ySlMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/DemoProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcRGVtb1Byb2R1Y3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,6 +64,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_IndividualProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnBlazorComponents/_LifeCycleChildComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5CbGF6b3JDb21wb25lbnRzXF9MaWZlQ3ljbGVDaGlsZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LearnRouting.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGVhcm5Sb3V0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/LifeCycle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZWFybl9CbGF6b3JcTGlmZUN5Y2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/LearnBlazor/LearnBlazor/Components/Pages/Learn_Blazor/ParentComponent.razor]

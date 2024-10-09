@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\YumBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\YumBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\10a93395-df3c-4081-875d-7fafd2e4a376.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\10a93395-df3c-4081-875d-7fafd2e4a376.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\7e6093ce-baef-4960-a8e2-38bea99c5801.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\7e6093ce-baef-4960-a8e2-38bea99c5801.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\bc6628f6-ddfe-4384-a35d-2e893677124c.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\bc6628f6-ddfe-4384-a35d-2e893677124c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\buttermilk.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\buttermilk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\c19dca35-1849-48a4-aa78-31925f3916f3.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\c19dca35-1849-48a4-aa78-31925f3916f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\carrot love.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\carrot love.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\jalebi.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\jalebi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\mango bliss.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\mango bliss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\paneer tikka.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\paneer tikka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\pani puri.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\pani puri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\rasmalai.jpeg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\rasmalai.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\samosa.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\samosa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\Menu Items\\spring rolls.jpg",
+      "PackagePath": "staticwebassets\\images\\Menu Items\\spring rolls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.YumBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.YumBlazor.props",
+      "PackagePath": "build\\YumBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.YumBlazor.props",
+      "PackagePath": "buildMultiTargeting\\YumBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.YumBlazor.props",
+      "PackagePath": "buildTransitive\\YumBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

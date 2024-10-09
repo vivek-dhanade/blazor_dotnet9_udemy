@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KGQy2j4NkDv21Bt95qIKqTWIfR9bqsqPrfUCdQMOUeo=",
+  "Hash": "GjAUqzluUZwyY42+Ph2VFbWzrGTRtAs3BfVRcLLXGgU=",
   "Source": "LearnBlazor",
   "BasePath": "_content/LearnBlazor",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\wwwroot\\js\\common.js",
+      "SourceId": "LearnBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\LearnBlazor\\LearnBlazor\\wwwroot\\",
+      "BasePath": "_content/LearnBlazor",
+      "RelativePath": "js/common.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\common.js"
     }
   ]
 }

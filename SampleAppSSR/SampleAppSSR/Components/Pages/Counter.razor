@@ -1,0 +1,19 @@
+﻿ @page "/counter"
+
+ <h3>Counter: @Count</h3>
+
+ @attribute [StreamRendering]
+
+ @code {
+     private int Count { get; set; } = 10;
+
+     protected override async Task OnInitializedAsync()
+     {
+         for(int i=10;i>0;i--)
+         {
+             await Task.Delay(1000);
+             Count--;
+             StateHasChanged();
+         }
+     }
+ }

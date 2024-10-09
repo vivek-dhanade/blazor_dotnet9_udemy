@@ -11,7 +11,7 @@
             MessageForGrandChild="This is a message for GrandChildComponent from Parent Component"
         >
         -->
-        <_ChildComponent OnButtonClick="ShowMessage"
+        <_ChildComponent @ref="childComponent" OnButtonClick="ShowMessage"
                          Title="This title is passed as parameter from parent component">
             <ChildSomeContent>
                 Some text between tags from Parent Component.
@@ -30,7 +30,13 @@
         </_ChildComponent> -->
     </CascadingValue>
 </CascadingValue>
+
+<div class="row">
+    <button class="btn btn-success" @onclick="()=>childComponent.ToastrSuccess()">Show Toastr Alert</button>
+
+</div>
 @code {
+    private _ChildComponent childComponent;
     public string messageText = "";
     private string MessageForGrandChildComponent = "This is a message for GrandChildComponent from ParentComponent as a Cascading Value";
     private string LuckyNumber = "7";
