@@ -52,7 +52,7 @@ h1:focus {
 
 
 .jumbotron-custom {
-    background: linear-gradient(to right, #2c536499, #203a4399, #0f202799) url("images/searchImage.jpg") center;
+    background: linear-gradient(to right, #2c536499, #203a4399, #0f202799), url("https://dotnetmasteryimages.blob.core.windows.net/yumblazor/searchImage.jpg") center;
     background-size: cover;
     width: 100%;
     height: 50vh;

@@ -30,8 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +52,7 @@
               "RelativeDocumentMoniker": "YumBlazor\\wwwroot\\app.css",
               "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
               "RelativeToolTip": "YumBlazor\\wwwroot\\app.css",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-11T16:57:51.78Z",
               "EditorCaption": ""
@@ -55,8 +67,7 @@
               "RelativeToolTip": "YumBlazor\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T16:49:23.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T16:49:23.777Z"
             },
             {
               "$type": "Document",
@@ -68,8 +79,7 @@
               "RelativeToolTip": "YumBlazor\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:50:56.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:50:56.868Z"
             },
             {
               "$type": "Document",
@@ -81,8 +91,7 @@
               "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:05:37.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:05:37.879Z"
             },
             {
               "$type": "Document",
@@ -94,20 +103,7 @@
               "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavBar.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T14:50:06.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-10-11T14:50:06.21Z"
             }
           ]
         }
