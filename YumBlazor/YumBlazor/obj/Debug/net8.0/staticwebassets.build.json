@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3fLnMiG+aZO/dE81pr6cQX/Z/nx4tfg6lZizUqXhQYk=",
+  "Hash": "Mk8FObr6Qyy3j6x0VTUmkl6DXuWFIYH8z12+QsuzDRs=",
   "Source": "YumBlazor",
   "BasePath": "_content/YumBlazor",
   "Mode": "Default",
@@ -623,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\fd9939c5-774b-44ad-bf0f-0aff9b792862..jpg"
+    },
+    {
+      "Identity": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\searchImage.jpg",
+      "SourceId": "YumBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\",
+      "BasePath": "_content/YumBlazor",
+      "RelativePath": "images/searchImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\searchImage.jpg"
     },
     {
       "Identity": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\js\\common.js",

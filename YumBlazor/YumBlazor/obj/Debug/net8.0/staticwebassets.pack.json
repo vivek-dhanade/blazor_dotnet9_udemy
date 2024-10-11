@@ -125,6 +125,10 @@
       "PackagePath": "staticwebassets\\images\\product\\fd9939c5-774b-44ad-bf0f-0aff9b792862..jpg"
     },
     {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\searchImage.jpg",
+      "PackagePath": "staticwebassets\\images\\searchImage.jpg"
+    },
+    {
       "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\js\\common.js",
       "PackagePath": "staticwebassets\\js\\common.js"
     },

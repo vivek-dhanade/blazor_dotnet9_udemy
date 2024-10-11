@@ -226,6 +226,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-q0lwrqb37g
 
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Layout/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pp7ikpw5t9
+
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-myud0x3nh1

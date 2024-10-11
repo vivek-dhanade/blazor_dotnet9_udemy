@@ -132,6 +132,7 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.YumBlazor.props
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\bundle\YumBlazor.styles.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\projectbundle\YumBlazor.bundle.scp.css
