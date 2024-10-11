@@ -89,6 +89,50 @@
       "PackagePath": "staticwebassets\\images\\loading.gif"
     },
     {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\45e58843-aeba-481d-8357-1ecbb689f245..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\45e58843-aeba-481d-8357-1ecbb689f245..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\67dda50e-ac96-42a2-b1e0-26718b897f25..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\67dda50e-ac96-42a2-b1e0-26718b897f25..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\76f408b4-91cd-4149-8cc8-4cffbd4cffd6..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\76f408b4-91cd-4149-8cc8-4cffbd4cffd6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\aa0cbd82-f606-450c-8521-3fad53c88e9f..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\aa0cbd82-f606-450c-8521-3fad53c88e9f..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\b22ac64e-1184-47a0-9aaa-f4f0939065f6..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b22ac64e-1184-47a0-9aaa-f4f0939065f6..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\e6dcc45b-2840-40ce-a2bb-7d7a6951ed32..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e6dcc45b-2840-40ce-a2bb-7d7a6951ed32..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\ef7af471-9419-449f-9a6c-85892973ffc9..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ef7af471-9419-449f-9a6c-85892973ffc9..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\f1fd2897-ab2c-4ba2-ae15-c1f0c1ac4983..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f1fd2897-ab2c-4ba2-ae15-c1f0c1ac4983..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\images\\product\\fd9939c5-774b-44ad-bf0f-0aff9b792862..jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fd9939c5-774b-44ad-bf0f-0aff9b792862..jpg"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.YumBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -182,6 +182,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXRlZ29yeV9QYWdlc1xDYXRlZ29yeUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Category_Pages/CategoryUpsert.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXRlZ29yeV9QYWdlc1xDYXRlZ29yeVVwc2VydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -194,12 +198,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Product_Pages/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0X1BhZ2VzXFByb2R1Y3RMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Product_Pages/ProductUpsert.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0X1BhZ2VzXFByb2R1Y3RVcHNlcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Shared/BsModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQnNNb2RhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/_Imports.razor]
