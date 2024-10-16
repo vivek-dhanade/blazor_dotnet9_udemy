@@ -3,24 +3,184 @@
   "WorkspaceRootPath": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\order_pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\order_pages\\orderdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\cart_pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\cart_pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\order_pages\\orderconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\order_pages\\orderconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navbaradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navbaradmin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\yumblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\yumblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\services\\sharedstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\services\\sharedstateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\order_pages\\orderlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\order_pages\\orderlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\product_pages\\productupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\product_pages\\productupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\layout\\navbaradmin.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\layout\\navbaradmin.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\migrations\\20241008144617_addcategoryandseedtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\migrations\\20241008144617_addcategoryandseedtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\migrations\\20241010153606_addproducttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\migrations\\20241010153606_addproducttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\migrations\\20241014100348_addshoppingcarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\migrations\\20241014100348_addshoppingcarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\migrations\\20241014131446_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\migrations\\20241014131446_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\category_pages\\categorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\data\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\data\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\category_pages\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\category_pages\\categoryupsert.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|c:\\users\\e272830\\desktop\\blazor_dotnet9_udemy\\yumblazor\\yumblazor\\components\\pages\\product_pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72FE70D9-700F-46CB-96EA-D51277D693BD}|YumBlazor\\YumBlazor.csproj|solutionrelative:yumblazor\\components\\pages\\product_pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +206,588 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "YumBlazor\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
-              "RelativeToolTip": "YumBlazor\\wwwroot\\app.css",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-11T16:57:51.78Z",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Services\\PaymentService.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Services\\PaymentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:17:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:47:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderConfirmation.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderConfirmation.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderConfirmation.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderConfirmation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:15:06.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:51:42.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Program.cs",
+              "RelativeToolTip": "YumBlazor\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:04:34.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Title": "Cart.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Cart_Pages\\Cart.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Cart_Pages\\Cart.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Cart_Pages\\Cart.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Cart_Pages\\Cart.razor",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T16:49:23.777Z"
+              "WhenOpened": "2024-10-14T14:13:28.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "YumBlazor\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrderDetails.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderDetails.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderDetails.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderDetails.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderDetails.razor",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:50:56.868Z"
+              "WhenOpened": "2024-10-15T06:32:39.158Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T15:05:37.879Z"
+              "DocumentIndex": 7,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\OrderHeader.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\OrderHeader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:54:26.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Utility\\SD.cs",
+              "RelativeToolTip": "YumBlazor\\Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:43:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "YumBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\appsettings.json",
+              "RelativeToolTip": "YumBlazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T13:29:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExternalLoginPicker.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T11:06:14.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExternalLogin.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:41:44.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageLayout.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Account\\Shared\\ManageLayout.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Account\\Shared\\ManageLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:05:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T07:43:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YumBlazor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\YumBlazor.csproj",
+              "RelativeDocumentMoniker": "YumBlazor\\YumBlazor.csproj",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\YumBlazor.csproj",
+              "RelativeToolTip": "YumBlazor\\YumBlazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T07:25:30.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NavBar.razor",
               "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBar.razor",
               "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\NavBar.razor",
               "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBar.razor",
               "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavBar.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T14:50:06.21Z"
+              "WhenOpened": "2024-10-15T06:06:54.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NavBarAdmin.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBarAdmin.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\NavBarAdmin.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBarAdmin.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavBarAdmin.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:05:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:50:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SharedStateService.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Services\\SharedStateService.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Services\\SharedStateService.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Services\\SharedStateService.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Services\\SharedStateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:46:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:53:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAALYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:45:37.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderList.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderList.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderList.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Order_Pages\\OrderList.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Order_Pages\\OrderList.razor",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T06:11:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\App.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:45:27.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:18:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T05:48:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductUpsert.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Product_Pages\\ProductUpsert.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Product_Pages\\ProductUpsert.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Product_Pages\\ProductUpsert.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Product_Pages\\ProductUpsert.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:15:28.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "YumBlazor\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\wwwroot\\app.css",
+              "RelativeToolTip": "YumBlazor\\wwwroot\\app.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T10:39:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NavBar.razor.css",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBar.razor.css",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\NavBar.razor.css",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBar.razor.css",
+              "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavBar.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T10:39:09.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NavBarAdmin.razor.css",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBarAdmin.razor.css",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Layout\\NavBarAdmin.razor.css",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Layout\\NavBarAdmin.razor.css",
+              "RelativeToolTip": "YumBlazor\\Components\\Layout\\NavBarAdmin.razor.css",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-15T09:12:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\OrderDetail.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:13:31.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:02:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241008144617_AddCategoryAndSeedTable.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241008144617_AddCategoryAndSeedTable.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Migrations\\20241008144617_AddCategoryAndSeedTable.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241008144617_AddCategoryAndSeedTable.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Migrations\\20241008144617_AddCategoryAndSeedTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:34:55.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241010153606_addProductToDb.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241010153606_addProductToDb.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Migrations\\20241010153606_addProductToDb.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241010153606_addProductToDb.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Migrations\\20241010153606_addProductToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:34:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:53:36.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241014131446_addOrderHeaderAndDetailsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241014131446_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Migrations\\20241014131446_addOrderHeaderAndDetailsToDb.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241014131446_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Migrations\\20241014131446_addOrderHeaderAndDetailsToDb.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:53:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241014100348_AddShoppingCartToDB.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241014100348_AddShoppingCartToDB.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Migrations\\20241014100348_AddShoppingCartToDB.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Migrations\\20241014100348_AddShoppingCartToDB.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Migrations\\20241014100348_AddShoppingCartToDB.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:03:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:06.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:28:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\Category.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\Category.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:28:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryList.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Category_Pages\\CategoryList.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBJwEYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T05:52:55.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "YumBlazor\\Data\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Data\\ShoppingCart.cs",
+              "RelativeToolTip": "YumBlazor\\Data\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:59:00.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryUpsert.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Category_Pages\\CategoryUpsert.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:26:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Product_Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "YumBlazor\\Components\\Pages\\Product_Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\E272830\\Desktop\\blazor_dotnet9_udemy\\YumBlazor\\YumBlazor\\Components\\Pages\\Product_Pages\\ProductList.razor",
+              "RelativeToolTip": "YumBlazor\\Components\\Pages\\Product_Pages\\ProductList.razor",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBZwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:26:06.161Z",
+              "EditorCaption": ""
             }
           ]
         }

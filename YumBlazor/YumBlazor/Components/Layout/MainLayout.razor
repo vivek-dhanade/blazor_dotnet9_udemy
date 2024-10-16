@@ -1,13 +1,13 @@
 ﻿@using YumBlazor.Utility
 
 @inherits LayoutComponentBase
-@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject AuthenticationStateProvider _AuthenticationStateProvider
 
 <div class="page">
 
     <AuthorizeView Roles="@SD.Role_Admin">
         <div class="sidebar">
-            <NavMenu />
+            <NavBarAdmin />
         </div>
     </AuthorizeView>
 
@@ -17,9 +17,7 @@
             <NavBar></NavBar>
         }
 
-        <article class="content px-4">
             @Body
-        </article>
     </main>
 </div>
 
@@ -44,7 +42,7 @@
 
     private async Task<bool> ShowNavBar()
     {
-        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var authState = await _AuthenticationStateProvider.GetAuthenticationStateAsync();
         var user = authState.User;
         var authenticated = user.Identity != null && user.Identity.IsAuthenticated;
 

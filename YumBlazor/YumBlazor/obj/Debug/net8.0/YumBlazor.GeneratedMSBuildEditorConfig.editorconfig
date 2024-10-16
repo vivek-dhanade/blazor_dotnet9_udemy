@@ -178,6 +178,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Cart_Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXJ0X1BhZ2VzXENhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Category_Pages/CategoryList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXRlZ29yeV9QYWdlc1xDYXRlZ29yeUxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -196,6 +200,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Order_Pages/OrderConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmRlcl9QYWdlc1xPcmRlckNvbmZpcm1hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Order_Pages/OrderDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmRlcl9QYWdlc1xPcmRlckRldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Order_Pages/OrderList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmRlcl9QYWdlc1xPcmRlckxpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Pages/Product_Pages/ProductList.razor]
@@ -230,6 +246,6 @@ build_metadata.AdditionalFiles.CssScope = b-q0lwrqb37g
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-pp7ikpw5t9
 
-[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-myud0x3nh1
+[C:/Users/E272830/Desktop/blazor_dotnet9_udemy/YumBlazor/YumBlazor/Components/Layout/NavBarAdmin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyQWRtaW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xapunvc995

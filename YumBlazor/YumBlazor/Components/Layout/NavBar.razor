@@ -1,4 +1,10 @@
-﻿<nav class="navbar navbar-expand-md navbar-dark bg-dark pb-4 pt-4">
+﻿@using YumBlazor.Data.Services;
+
+@inject AuthenticationStateProvider _authStateProvider;
+@inject SharedStateService _sharedStateService;
+@inject IShoppingCartRepository _shoppingCartRepository
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark pb-4 pt-4">
     <div class="container-fluid">
         <a class="navbar-brand" href="">
             <img src="/images/Logo.png" alt="Bootstrap" width="30" height="24">
@@ -10,9 +16,19 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav me-auto mb-2 mb-md-0">
-                <li class="nav-item">
-                    <NavLink class="nav-link" href="">
+                <li class="nav-item mx-2">
+                    <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
                         <span class="bi bi-house-door" aria-hidden="true"></span> Home
+                    </NavLink>
+                </li>
+                <li class="nav-item mx-2">
+                    <NavLink class="nav-link" href="/cart" Match="NavLinkMatch.All">
+                        <span class="bi bi-card-list" aria-hidden="true"></span> Cart (@_sharedStateService.TotalCartCount)
+                    </NavLink>
+                </li>
+                <li class="nav-item mx-2">
+                    <NavLink class="nav-link" href="/order/list" Match="NavLinkMatch.All">
+                        <span class="bi bi-cart3" aria-hidden="true"></span> OrderList
                     </NavLink>
                 </li>
             </ul>
@@ -20,9 +36,9 @@
                 <AuthorizeView>
                     <Authorized>
                         <li class="nav-item">
-                            <button class="nav-link active me-2" style="cursor: pointer; background: transparent; border: 0px;">
+                            <NavLink class="nav-link" href="Account/Manage">
                                 Welcome, @context?.User?.Identity?.Name
-                            </button>
+                            </NavLink>
                         </li>
                         <li class="nav-item">
                             <form action="Account/Logout" method="post">
@@ -51,3 +67,30 @@
         </div>
     </div>
 </nav>
+
+
+@code{
+    protected override void OnInitialized()
+    {
+        _sharedStateService.OnChange += OnSharedStateChange;
+        GetInitialCount();
+    }
+
+    private void OnSharedStateChange()
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    public async Task GetInitialCount()
+    {
+        var authState = await _authStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        _sharedStateService.TotalCartCount = await _shoppingCartRepository.GetTotalCartCartCountAsync(user?.FindFirst(u => u.Type.Contains("nameidentifier"))?.Value);
+    }
+
+    public void Dispose()
+    {
+        _sharedStateService.OnChange -= OnSharedStateChange;
+    }
+}

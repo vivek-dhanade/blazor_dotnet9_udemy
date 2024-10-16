@@ -1,56 +1,195 @@
 ﻿@page "/"
 
+@using System.Globalization ;
+@using System.Linq;
+
+@inject IProductRepository _productRepository;
+@inject ICategoryRepository _categoryRepository;
+@inject AuthenticationStateProvider _AuthenticationStateProvider
+@inject IJSRuntime _JS
+@using YumBlazor.Data.Services;
+
+@inject NavigationManager _navigationManager
+@inject IShoppingCartRepository _shoppingCartRepository
+@inject SharedStateService _sharedStateService
+
+
 <PageTitle>Home</PageTitle>
 
-<div class="container-fluid px-0 m-0 full-width">
-    <div class="jumbotron-custom">
-        <div class="m-auto d-flex align-items-center" style="width: 400px; height: 50vh;">
-
-            <div class="d-flex align-items-center" style="width: 100%;">
-                <input type="text" class="form-control rounded-pill"
-                       placeholder="Search for Food Items!"
-                       style="width: 100%; padding: 20px;">
-                <span style="position: relative; left: -43px;"><i class="bi bi-search"></i></span>
-            </div>
-        </div>
+@if (IsProcessing)
+{
+    <div class="position-absolute w-100 vh-100 d-flex flex-column align-items-center bg-white justify-content-center">
+        <img src="/images/loading.gif" alt="loading" />
     </div>
+}
+else
+{
+    <div class="container-fluid px-0 m-0 full-width">
+        <div class="jumbotron-custom">
+            <div class="m-auto d-flex align-items-center" style="width: 400px; height: 50vh;">
 
-    <div class="content px-4 m-2">
-        <ul class="nav nav-underline justify-content-center mb-2">
-            <li class="nav-item">
-                <span class="nav-link" href="#" style="cursor: pointer">All</span>
-            </li>
-            <li class="nav-item">
-                <span class="nav-link" href="#" style="cursor: pointer">Cat 1</span>
-            </li>
-            <li class="nav-item">
-                <span class="nav-link" href="#" style="cursor: pointer">Cat 2</span>
-            </li>
-        </ul>
-        <div class="row mt-4 mx-1">
-            <div class="col-12 col-md-6 col-lg-4 pe-3 mb-5">
-                <div class="card">
-                    <div class="mt-3 mb-2 row">
-                        <div class="col-6 px-3">
-                            <i class="bi bi-star btn btn-outline-success disabled"> SpecialTag</i>
-                        </div>
-                        <div class="col-6 text-end px-3">
-                            --PRICE--
-                        </div>
-                    </div>
-                    <div class="text-center">
-                        <img class="card-img-top img-thumbnail img-rounded w-50 mt-2" src="images/default.png" style="">
-                    </div>
-                    <div class="card-body">
-                        <h5 class="card-title text-center lead text-success">Name</h5>
-                        <h4 class="text-center">
-                            <i class="bi bi-cart3 btn btn-success text-right  px-5" style="width:300px"> Add to cart</i>
-                        </h4>
-                        <p class="card-text mt-2">Description</p>
-
-                    </div>
+                <div class="d-flex align-items-center" style="width: 100%;">
+                    <input type="text" class="form-control rounded-pill"
+                           @bind:event="oninput" @bind:get="_searchText"
+                           @bind:set="FilterProductByName"
+                           placeholder="Search for Food Items!"
+                           style="width: 100%; padding: 20px;">
+                    <span style="position: relative; left: -43px;"><i class="bi bi-search"></i></span>
                 </div>
             </div>
         </div>
+        @* <RadzenButton Text="Hi"></RadzenButton> *@
+        <div class="content px-4 m-2">
+            <ul class="nav nav-underline justify-content-center mb-2">
+                <li class="nav-item">
+                    <span class="nav-link @GetActiveTabClass(0)" href="#" style="cursor: pointer" @onclick="()=>FilterProducts(0)">All</span>
+                </li>
+                @foreach (var category in Categories)
+                {
+                    <li class="nav-item">
+                        <span class="nav-link @GetActiveTabClass(category.Id)" href="#" style="cursor: pointer" @onclick="()=>FilterProducts(category.Id)">@category.Name</span>
+                    </li>
+                }
+            </ul>
+            <div class="row mt-4 mx-1">
+                @foreach (var product in FilteredProducts)
+                {
+
+                    <div class="col-12 col-md-6 col-lg-4 pe-3 mb-5">
+                        <div class="card">
+                            <div class="mt-3 mb-2 row">
+                                <div class="col-6 px-3">
+                                    @if (!string.IsNullOrEmpty(product.SpecialTag))
+                                    {
+                                        <i class="bi bi-star btn btn-outline-success disabled"> @product.SpecialTag</i>
+                                    }
+                                </div>
+                                <div class="col-6 text-end px-3 text-danger h3">
+                                    @product.Price.ToString("C", CultureInfo.GetCultureInfo("en-us"))
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                @if (!string.IsNullOrEmpty(product.ImageUrl))
+                                {
+                                    <img class="card-img-top img-thumbnail img-rounded w-50 mt-2" src="@product.ImageUrl" style="">
+
+                                }
+                                else
+                                {
+                                    <img class="card-img-top img-thumbnail img-rounded w-50 mt-2" src="images/default.png" style="" />
+                                }
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-center lead text-success">@product.Name</h5>
+                                <p class="card-text mt-2">@((MarkupString)@product.Description)</p>
+                                <h4 class="text-center">
+                                    <div class="m-lg-auto p-2" @onclick="()=>AddOrderItem(product, 1)">
+                                    <i class="bi bi-cart3 btn btn-success text-right  px-5 form-control"> Add to cart</i>
+                                    </div> 
+                                </h4>
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
     </div>
-</div>
+}
+
+@code {
+    private IEnumerable<Product> Products = new List<Product>();
+    private IEnumerable<Category> Categories = new List<Category>();
+    private IEnumerable<Product> FilteredProducts = new List<Product>();
+
+    private bool IsProcessing { get; set; } = true;
+
+    private int _selectedCategoryId = 0;
+    private string _searchText = "";
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await LoadProducts();
+            IsProcessing = false;
+            StateHasChanged();
+        }
+    }
+
+    private async Task LoadProducts()
+    {
+        Products = await _productRepository.GetAllAsync();
+        Categories = await _categoryRepository.GetAllAsync();
+        FilterProducts(0);
+    }
+
+    private void FilterProducts(int categoryId)
+    {
+        if (categoryId == 0)
+        {
+            FilteredProducts = Products;
+            _selectedCategoryId = categoryId;
+            return;
+        }
+        else
+        {
+            FilteredProducts = Products
+            .Where(u => u.CategoryId == categoryId).ToList();
+            _selectedCategoryId = categoryId;
+            _searchText = String.Empty;
+        }
+
+
+    }
+
+    private void FilterProductByName(string newValueOfSearchText)
+    {
+        if (string.IsNullOrWhiteSpace(newValueOfSearchText))
+        {
+            FilteredProducts = Products;
+        }
+        else
+        {
+            FilteredProducts = Products
+            .Where(u => u.Name.Contains(newValueOfSearchText, StringComparison.InvariantCultureIgnoreCase)).ToList();
+        }
+
+        _searchText = newValueOfSearchText;
+    }
+
+    private string GetActiveTabClass(int categoryId)
+    {
+        return categoryId == _selectedCategoryId ? "active" : string.Empty;
+    }
+
+    private async Task AddOrderItem(Product product, int count)
+    {
+        var authState = await _AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        var authenticated = user.Identity != null && user.Identity.IsAuthenticated;
+
+        if(!authenticated)
+        {
+            _navigationManager.NavigateTo("account/login");
+        }
+        else
+        {
+            var userId = user.FindFirst(u => u.Type.Contains("nameidentifier"))?.Value;
+            var result = await _shoppingCartRepository
+            .UpdateCartAsync(userId, product.Id, count);
+
+            _sharedStateService.TotalCartCount = await(_shoppingCartRepository.GetTotalCartCartCountAsync(userId));
+
+            if(result)
+            {
+                _JS.ToastrSuccess("Product added to cart successfully");
+            }
+            else
+            {
+                _JS.ToastrError("Error encountered");
+            }
+        }
+    }
+}

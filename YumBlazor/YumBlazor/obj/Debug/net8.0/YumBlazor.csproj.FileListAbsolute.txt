@@ -37,7 +37,6 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -46,13 +45,10 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -111,12 +107,7 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.csproj.AssemblyReference.cache
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.AssemblyInfoInputs.cache
@@ -133,7 +124,6 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css
-C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\bundle\YumBlazor.styles.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\projectbundle\YumBlazor.bundle.scp.css
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.csproj.Up2Date
@@ -142,3 +132,12 @@ C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.pdb
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\YumBlazor.genruntimeconfig.cache
 C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\ref\YumBlazor.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Radzen.Blazor.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\obj\Debug\net8.0\scopedcss\Components\Layout\NavBarAdmin.razor.rz.scp.css
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\E272830\Desktop\blazor_dotnet9_udemy\YumBlazor\YumBlazor\bin\Debug\net8.0\Stripe.net.dll

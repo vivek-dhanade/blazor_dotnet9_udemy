@@ -1,0 +1,119 @@
+﻿@using System.Globalization;
+@using YumBlazor.Utility;
+
+@page "/order/details/{Id:int}";
+
+@inject IOrderRepository _orderRepository;
+@inject IJSRuntime _JS;
+@inject AuthenticationStateProvider _AuthenticationStateProvider;
+
+@if (IsProcessing)
+{
+    <div class="position-absolute w-100 vh-100 d-flex flex-column align-items-center bg-white justify-content-center">
+        <img src="/images/loading.gif" alt="loading" />
+    </div>
+}
+else
+{
+    <div class="container my-5 mx-auto p-5 w-100" style="max-width: 950px;">
+        <div class="card" style="max-width: 750px;">
+            <div class="pt-3 text-success text-center">
+                <span class="h4"> ORDER DETAILS</span>
+            </div>
+            @if (OrderHeader != null)
+            {
+                <hr />
+                <div class="px-3">
+                    <p>Order Id: @OrderHeader.Id</p>
+                    <p>Name: @OrderHeader.Name </p>
+                    <p>Email: @OrderHeader.Email </p>
+                    <p>Phone:@OrderHeader.PhoneNumber </p>
+                    <p>Order Status: @OrderHeader.Status </p>
+                </div>
+                <hr />
+                <div class="card-body">
+                    <h4 class="text-success">Menu Items</h4>
+
+                    @foreach (var details in OrderHeader.OrderDetails)
+                    {
+                        <div class="d-flex">
+                            <div class="d-flex w-100 justify-content-between">
+                                <p>
+                                    &nbsp; @details.ProductName
+                                </p>
+                                <p>
+                                    @details.Price.ToString("C", CultureInfo.GetCultureInfo("en-us")) x @details.Count =
+                                </p>
+                            </div>
+                            <div class="ps-4">
+
+                                @((@details.Price * @details.Count).ToString("C", CultureInfo.GetCultureInfo("en-us")));
+                            </div>
+
+                        </div>
+                    }
+
+                    <hr />
+                    <h4 class="text-success text-end">
+                        @OrderHeader.OrderTotal.ToString("C", CultureInfo.GetCultureInfo("en-us"));
+                    </h4>
+                    <hr />
+                    <div class="row">
+                        <div class="col-5">
+                            <a href="order/list" class="btn btn-secondary  m-2 p-2" style="width:150px;">Back to Orders</a>
+                        </div>
+                        <div class="col-7 text-end">
+                            @if (OrderHeader.Status != SD.StatusCancelled && OrderHeader.Status != SD.StatusCompleted && _AuthenticationStateProvider.GetAuthenticationStateAsync().GetAwaiter().GetResult().User.IsInRole(SD.Role_Admin))
+                            {
+                                <button class="btn btn-danger m-2 p-2" @onclick="()=>UpdateStatus(SD.StatusCancelled)" style="width:150px;"> Cancelled </button>
+                                @if (OrderHeader.Status == SD.StatusPending)
+                                {
+                                    <button class="btn btn-primary m-2 p-2" @onclick="()=>UpdateStatus(SD.StatusReadyForPickUp)" style="width:150px;"> Ready for Pickup</button>
+                                }
+                                @if (OrderHeader.Status == SD.StatusReadyForPickUp)
+                                {
+                                    <button class="btn btn-success m-2 p-2" @onclick="()=>UpdateStatus(SD.StatusCompleted)" style="width:150px;"> Completed </button>
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    private bool IsProcessing { get; set; } = false;
+    private OrderHeader? OrderHeader { get; set; } = null;
+
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            IsProcessing = true;
+            StateHasChanged();
+            // await Task.Yield();
+            await LoadOrder();
+            // Thread.Sleep(5000);
+            IsProcessing = false;
+            StateHasChanged();
+        }
+    }
+
+    private async Task LoadOrder()
+    {
+        //Thread.Sleep(5000);x
+        OrderHeader = await _orderRepository.GetAsync(Id);
+        //Load Categories
+    }
+
+    private async  Task UpdateStatus(string newStatus)
+    {
+        await _orderRepository.UpdateStatusAsync(Id, newStatus,"");
+        _JS?.ToastrSuccess("Status updated successfully to " + newStatus);
+    }
+}
